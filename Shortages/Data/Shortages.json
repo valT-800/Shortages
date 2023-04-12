@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 0,
+    "Title": "Broken microwave",
+    "Name": "Will Smith",
+    "Room": "Kitchen",
+    "Category": "Electronics",
+    "Priority": 8,
+    "CreatedOn": "2023-03-15T09:30:00Z",
+    "UserId": 0
+  },
+  {
+    "Id": 1,
+    "Title": "Leaky faucet",
+    "Name": "Will Smith",
+    "Room": "Bathroom",
+    "Category": "Other",
+    "Priority": 5,
+    "CreatedOn": "2023-03-20T13:45:00Z",
+    "UserId": 0
+  },
+  {
+    "Id": 2,
+    "Title": "Broken cooler",
+    "Name": "Emilia Clarke",
+    "Room": "MeetingRoom",
+    "Category": "Other",
+    "Priority": 6,
+    "CreatedOn": "2023-03-25T10:15:00Z",
+    "UserId": 1
+  },
+  {
+    "Id": 3,
+    "Title": "Out of coffee",
+    "Name": "Emilia Clarke",
+    "Room": "Kitchen",
+    "Category": "Food",
+    "Priority": 1,
+    "CreatedOn": "2023-04-01T10:15:00Z",
+    "UserId": 1
+  }
+]
